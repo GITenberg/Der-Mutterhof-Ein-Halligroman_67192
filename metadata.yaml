@@ -1,5 +1,8 @@
 _repo: Der-Mutterhof-Ein-Halligroman_67192
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67192-h/images/cover.jpg
 creator:
   author:
     agent_name: Rose, Felicitas
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51452
     wikipedia: https://de.wikipedia.org/wiki/Felicitas_Rose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67192#Der-Mutterhof-Ein-Halligroman
 gutenberg_issued: '2022-01-18'
 identifiers:
   gutenberg: '67192'
